@@ -1,2 +1,2 @@
 # Bike-Rental-Count-Prediction
-The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings
+The objective of this project is to predicat the bike rental count on daily based on the environmental and seasonal settings. Various models such as Linear Regression , Decision Tree, Random Forest etc. have been used for prediction.
